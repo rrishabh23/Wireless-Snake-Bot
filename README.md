@@ -13,6 +13,6 @@ The two seperate codes in the Codes folder are to be uploaded on Arduino Mega an
 
 ![Working](/Results.gif)
 
-Note: The wire is for power supply, controlling is done via an Android Device.
+Clarification: The wire is for power supply, controlling is done via an Android Device. Even though the bot runs on 7.4V supply, we had to use a 12V LiPo battery which is heavier and slows the bot a bit which is why we decided not to mount it on the bot itself.
 
 This is based on the work of [joesinstructables](https://www.instructables.com/member/joesinstructables/).
