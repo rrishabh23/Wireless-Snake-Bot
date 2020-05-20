@@ -1,6 +1,6 @@
 # Wireless-Snake-Bot
 
-The snake contains 6 segments actuated by servo motors and joined with metal brackets. The servos are controlled by an Arduino Mega and
+The snake contains 12 segments actuated by servo motors and joined with metal brackets. The servos are controlled by an Arduino Mega and
 powered by a LiPo battery. It uses NodeMCU(ESP8266) for wireless control.
 An Android device is used to control the bot with the use of this [app](https://github.com/rrishabh23/Wireless-Snake-Bot/blob/master/SnakeBot%20Control.apk).
 
